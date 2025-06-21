@@ -27,4 +27,22 @@ This project demonstrates how to write, compile, and deploy Ethereum smart contr
 ├── build/               # Auto-generated compiled contract ABIs
 ├── .env                 # Your secrets (NOT committed to Git)
 ├── truffle-config.js    # Network and compiler config
+
+
+
+
+🧪 Requirements
+Node.js v18.x (recommended)
+Truffle v5.x
+MetaMask wallet
+Alchemy API key (or Infura alternative)
+Sepolia ETH (via faucet)
 └── package.json
+
+📄 License
+MIT License
+
+🙌 Acknowledgements
+Truffle Suite
+Alchemy
+MetaMask
