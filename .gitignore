@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Truffle build artifacts
+build/
+artifacts/
+
+# Environment variables (secret keys)
+.env
+.env.*
+
+# VS Code settings (optional)
+.vscode/
+
+# Log files
+*.log
+
+# System files (optional)
+.DS_Store
+Thumbs.db
